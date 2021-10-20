@@ -7,6 +7,7 @@ I love development and I like to constantly learn, keep up-to-date with evolving
 - 🌱 I’m currently learning NEXT JS, REDUX 
 - 📫 How to reach me: yhumbertorijo@gmail.com 
 
+<br></br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://z-p15.www.instagram.com/yohan_humberto_rijo/?hl=es-la)
 [![linkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohan-humberto-rijo-astacio-882b84214//)
