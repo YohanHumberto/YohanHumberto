@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Yohan
 #### I am a Web Developer
-I am a Web Developer]
 
 I am a web developer, I love development and I like to constantly learn, keep up-to-date with evolving development technologies..
 
