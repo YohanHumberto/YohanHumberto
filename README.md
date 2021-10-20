@@ -8,15 +8,9 @@ I love development and I like to constantly learn, keep up-to-date with evolving
 - 📫 How to reach me: yhumbertorijo@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/YohanHumberto)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/yohan-humberto-rijo-astacio-882b84214//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/yohanhunberto.rijoastacio/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://z-p15.www.instagram.com/yohan_humberto_rijo/?hl=es-la/)  
-
-
-
-
-
 [![Instagram](https://img.shields.io/badge/Instagram-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://z-p15.www.instagram.com/yohan_humberto_rijo/?hl=es-la)
 [![linkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohan-humberto-rijo-astacio-882b84214//)
-[![Facebook](https://img.shields.io/badge/facebook-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)](https://web.facebook.com/yohanhunberto.rijoastacio/)
+[![Facebook](https://img.shields.io/badge/facebook-%2300f.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/yohanhunberto.rijoastacio/)
 
 
 
