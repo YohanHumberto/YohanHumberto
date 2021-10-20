@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Yohan
 #### I am a Web Developer
 
-I am a web developer, I love development and I like to constantly learn, keep up-to-date with evolving development technologies..
+I love development and I like to constantly learn, keep up-to-date with evolving development technologies..
 
 Skills: VUE JS / REACT / JS / HTML / CSS / BOOTSTRAP / NODE
 
