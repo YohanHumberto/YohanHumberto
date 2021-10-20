@@ -15,9 +15,10 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BOOTSTRAP / NODE
 
 
 
-[![twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/emiliort)
-[![linkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emiliorosat/)
-[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCeQDXaNSOVaeAQEPNuUNbFQ)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://z-p15.www.instagram.com/yohan_humberto_rijo/?hl=es-la)
+[![linkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohan-humberto-rijo-astacio-882b84214//)
+[![Facebook](https://img.shields.io/badge/facebook-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)](https://web.facebook.com/yohanhunberto.rijoastacio/)
 
 
 
