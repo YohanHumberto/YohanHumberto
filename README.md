@@ -39,6 +39,11 @@ I love development and I like to constantly learn, keep up-to-date with evolving
 ![SQL Server](https://img.shields.io/badge/sqlserver-%2300f.svg?&style=for-the-badge&logo=sqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
+
+## Some of any projects 
+ [![Netlify Status](https://api.netlify.com/api/v1/badges/ea686d49-3ee8-428c-8a27-45166f900473/deploy-status)](https://app.netlify.com/sites/appgastos/deploys)
+ 
+ 
 ## Github's Stats
 
 [![emiliorosat's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YohanHumberto&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
