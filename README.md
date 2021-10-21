@@ -41,7 +41,7 @@ I love development and I like to constantly learn, keep up-to-date with evolving
 
 
 ## Some of any projects 
- [![Netlify Status](https://api.netlify.com/api/v1/badges/ea686d49-3ee8-428c-8a27-45166f900473/deploy-status)](https://appgastos.netlify.app/)
+ [![Netlify Status](https://api.netlify.com/api/v1/badges/ea686d49-3ee8-428c-8a27-45166f900473/appgastos)](https://appgastos.netlify.app/)
  
  
 ## Github's Stats
