@@ -42,6 +42,7 @@ I love development and I like to constantly learn, keep up-to-date with evolving
 
 ## Some of any projects 
  [![Netlify React_Appgastos](https://img.shields.io/badge/AppGastos-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://appgastos.netlify.app/)
+ [![Netlify MemoryGame](https://img.shields.io/badge/MemoryGame-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://gifted-colden-744849.netlify.app)
  [![Netlify Vue_CRUD](https://img.shields.io/badge/CRUD-%2343853D.svg?&style=for-the-badge&logo=vue.js&logoColor=white)](https://naughty-euclid-f5b756.netlify.app)
  
  
