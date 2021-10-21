@@ -41,7 +41,7 @@ I love development and I like to constantly learn, keep up-to-date with evolving
 
 
 ## Some of any projects 
- [![Netlify status](https://img.shields.io/badge/AppGastos-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)(https://appgastos.netlify.app/)
+ [![Netlify status](https://img.shields.io/badge/AppGastos-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://appgastos.netlify.app/)
  
  
 ## Github's Stats
