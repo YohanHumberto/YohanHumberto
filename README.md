@@ -9,7 +9,6 @@ I love development and I like to constantly learn, keep up-to-date with evolving
 
 <br></br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://z-p15.www.instagram.com/yohan_humberto_rijo/?hl=es-la)
 [![linkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohan-humberto-rijo-astacio-882b84214//)
 [![Facebook](https://img.shields.io/badge/facebook-%2300f.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/yohanhunberto.rijoastacio/)
 [![Portafolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portafolioyohanhumberto.netlify.app/)
