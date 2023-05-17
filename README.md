@@ -4,16 +4,12 @@
 I love development and I like to constantly learn, keep up-to-date with evolving development technologies..
 
 - 🔭 I’m currently working on in some personal projects that I will be uploading to github when I finish them 
-- 🌱 I’m currently learning NEXT JS, REDUX 
 - 📫 How to reach me: yhumbertorijo@gmail.com 
 
 <br></br>
 
 [![linkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohan-humberto-rijo-astacio-882b84214//)
-[![Facebook](https://img.shields.io/badge/facebook-%2300f.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/yohanhunberto.rijoastacio/)
-[![Portafolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portafolioyohanhumberto.netlify.app/)
-
-
+<!--[![Portafolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portafolioyohanhumberto.netlify.app/)-->
 
 
 <!--[![youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCeQDXaNSOVaeAQEPNuUNbFQ)-->
@@ -44,10 +40,10 @@ I love development and I like to constantly learn, keep up-to-date with evolving
 ## Some of any projects 
  [![React_Appgastos](https://img.shields.io/badge/AppGastos-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://appgastos.netlify.app/)
  [![React_MovieApp](https://img.shields.io/badge/MovieApp-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://movieapp-react-yohan.netlify.app/)
- [![MemoryGame](https://img.shields.io/badge/MemoryGame-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://gifted-colden-744849.netlify.app)
- [![Vue_CRUD](https://img.shields.io/badge/CRUD-%2343853D.svg?&style=for-the-badge&logo=vue.js&logoColor=white)](https://naughty-euclid-f5b756.netlify.app)
+<!-- [![MemoryGame](https://img.shields.io/badge/MemoryGame-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://gifted-colden-744849.netlify.app)-->
+<!-- [![Vue_CRUD](https://img.shields.io/badge/CRUD-%2343853D.svg?&style=for-the-badge&logo=vue.js&logoColor=white)](https://naughty-euclid-f5b756.netlify.app)-->
  [![TrikyGame](https://img.shields.io/badge/TrikyGame-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://zealous-lamport-a18e48.netlify.app)
- [![PokeApp](https://img.shields.io/badge/PokeApp-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://competent-swartz-383dd8.netlify.app)
+<!-- [![PokeApp](https://img.shields.io/badge/PokeApp-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://competent-swartz-383dd8.netlify.app)-->
  
  
 ## Github's Stats
